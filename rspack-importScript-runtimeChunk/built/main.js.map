@@ -1,0 +1,1 @@
+{"version":3,"file":"main.js","sources":["webpack:///./index.js"],"sourcesContent":["import { a } from './shared.js'\nconsole.log(a)\n"],"names":[],"mappings":";;;;AAA+B;AAC/B,YAAY,yCAAC"}
