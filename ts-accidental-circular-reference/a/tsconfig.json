@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "composite": true,
+        "outDir": "./dist",
+        "declaration": true,
+        "allowJs": true,
+        "declarationDir": "./dist",
+        "rootDir": "./src/",
+        "module": "NodeNext",
+        "moduleResolution": "NodeNext"
+    },
+    "include": ["./src/**.ts"]
+}
